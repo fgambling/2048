@@ -7,6 +7,7 @@
 #include <iostream>
 using namespace std;
 
+//编译命令 Linux/Mac: g++ 2048.cpp -l ncurses -o 2048
 //格子数
 #define N 4
 //格子的字符长度
